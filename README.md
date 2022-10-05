@@ -1,6 +1,6 @@
 <h1><img src="src/bat.gif" width="40" height="40"> Hi there!</h1> 
 
-<div align="center" ><h1><img src="src/shadow.gif" width="60" height="60"> Technologies & Tools</h1></div>
+<div item="center" ><h1><img src="src/shadow.gif" width="60" height="60"> Technologies & Tools</h1></div>
 
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
