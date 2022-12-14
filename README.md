@@ -1,4 +1,7 @@
-<h1><img src="src/bat.gif" width="40" height="40"> Hi there!</h1> 
+
+<img src='src/banner.svg'>
+
+<!-- <h1><img src="src/bat.gif" width="40" height="40"> Hi there!</h1> 
 
 <h1><img src="src/knife.gif" width="40" height="40"> Technologies & Tools</h1>
 
@@ -15,7 +18,7 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/Next-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
-![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc) -->
 
 
 <!--
