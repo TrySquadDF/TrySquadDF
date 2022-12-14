@@ -13,18 +13,18 @@
     <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
     values="0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"
     calcMode="discrete" repeatCount="indefinite" />
-  </image>
+  </img>
 <img x="0" y="0" width="148" height="148" xlink:href="spinfox_003.png">
     <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
     values="0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"
     calcMode="discrete" repeatCount="indefinite" />
-  </image>
+  </img>
 …
 <img x="0" y="0" width="148" height="148" xlink:href="spinfox_024.png">
     <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
     values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0"
     calcMode="discrete" repeatCount="indefinite" />
-  </image>
+  </img>
 <img x="0" y="0" width="148" height="148" xlink:href="spinfox_025.png">
     <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
     values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1"
