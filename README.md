@@ -1,7 +1,7 @@
 <h1><img src="src/bat.gif" width="40" height="40"> Hi there!</h1> 
 
 <h1><img src="src/knife.gif" width="40" height="40"> Technologies & Tools</h1>
-<h1><img src="src/github-user-contribution.svg" width="40" height="40"> Technologies & Tools</h1>
+
 
 
 
