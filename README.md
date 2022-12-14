@@ -2,35 +2,7 @@
 
 <h1><img src="src/knife.gif" width="40" height="40"> Technologies & Tools</h1>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="148">
-  <img x="0" y="0" width="148" height="148" xlink:href="spinfox_001.png">
-    <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
-    values="1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"
-    calcMode="discrete" repeatCount="indefinite" />
-  </img>
-<img x="0" y="0" width="148" height="148" xlink:href="spinfox_002.png">
-    <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
-    values="0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"
-    calcMode="discrete" repeatCount="indefinite" />
-  </img>
-<img x="0" y="0" width="148" height="148" xlink:href="spinfox_003.png">
-    <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
-    values="0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"
-    calcMode="discrete" repeatCount="indefinite" />
-  </img>
-…
-<img x="0" y="0" width="148" height="148" xlink:href="spinfox_024.png">
-    <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
-    values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0"
-    calcMode="discrete" repeatCount="indefinite" />
-  </img>
-<img x="0" y="0" width="148" height="148" xlink:href="spinfox_025.png">
-    <animate attributeType="CSS" attributeName="opacity" dur="1.25s"
-    values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1"
-    calcMode="discrete" repeatCount="indefinite" />
-  </img>
-</svg>
+
 
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
