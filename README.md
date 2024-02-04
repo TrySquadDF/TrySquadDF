@@ -1,5 +1,5 @@
 
-<img src='src/banner-test.svg'>
+<img src='src/banner.svg'>
 <!-- <img src="https://readme-github.vercel.app/st?username=TrySquadDF" /> -->
 
 <!-- <h1><img src="src/bat.gif" width="40" height="40"> Hi there!</h1> 
